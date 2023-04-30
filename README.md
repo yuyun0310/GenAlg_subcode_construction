@@ -1,2 +1,1 @@
-# GenAlg_subcode_construction
-GenAlg: Artificial Intelligence-based Subcode Design
+# GenAlg: Artificial Intelligence-based Subcode Design
